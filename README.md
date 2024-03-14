@@ -1,4 +1,5 @@
 ## Board
 
-#게시판 CRUD구현하기!
+#CRUD구현
+#Restful Api 설계
 
